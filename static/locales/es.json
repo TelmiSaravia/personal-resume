@@ -1,1 +1,53 @@
-#aqui pondre los valores en español
+{
+  "website":{
+    "title": "El blog de Jack"
+  },
+  "nav":{
+    "home": "Inicio",
+    "about_me": "Sobre mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "career": "Carrera",
+    "blog": "Blog",
+    "link": "Enlaces"
+  },
+  "about_me":{
+    "about_me": "Sobre mí",
+    "des": "Soy un ingeniero Full Stack con experiencia en desarrollo web, automatización de operaciones y creación de scripts. La vida es un proceso continuo de aprendizaje, así que el trabajo me hace más riguroso y viajar hace mi vida más colorida. Puedo hacer muchos amigos programando y viajando."
+  },
+  "skills":{
+    "my_skills": "Mis Habilidades"
+  },
+  "projects":{
+    "my_projects": "Mis Proyectos",
+    "jalpc": "Este proyecto es mío. Uso JavaScript para obtener la información de mis repositorios; todos mis repos solo requieren una petición.",
+    "cpython": "Este proyecto es de otra persona. Uso otra petición para obtener la información del repositorio.",
+    "familycode": "Este es otro proyecto."
+  },
+  "career":{
+    "my_career": "Mi Carrera",
+    "nextcode": "Nextcode",
+    "nextcode_des": "Actualmente trabajo en Nextcode desarrollando sitios web con Python para análisis genético.",
+    "nextcode_date": "Abr. 2016",
+    "nextcode_job": "Desarrollador Python",
+    "netease": "Netease Game",
+    "netease_des": "En Netease Game aprendí sobre sistemas de servicios de videojuegos y usé Python para operaciones.",
+    "netease_date": "Jun. 2015",
+    "netease_job": "Dev Ops",
+    "ucloud": "Ucloud",
+    "ucloud_des": "En Ucloud comencé a trabajar con servidores y sistemas Linux, usando scripts de shell para gestionar servidores masivos.",
+    "ucloud_date": "Sep. 2013",
+    "ucloud_job": "Dev Ops",
+    "college": "Graduación",
+    "college_des": "En julio de 2013 me gradué de la universidad y comencé mi recorrido en tecnología IT.",
+    "college_date": "Jul. 2013",
+    "college_job": "Estudiante"
+  },
+  "blog":{
+    "my_blog": "Mi Blog"
+  },
+  "link":{
+    "link": "Enlaces",
+    "view": "vistas"
+  }
+}
