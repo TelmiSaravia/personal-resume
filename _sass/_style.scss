@@ -2623,6 +2623,10 @@ body {
     text-align: center;
     img {
       margin: auto;
+      width: 180px;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 50%;
     }
   }
   .social-icon a {
