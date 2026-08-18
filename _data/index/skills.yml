@@ -1,6 +1,7 @@
 # skills section data
 
 label: Ability
-id : cs
-aspects: Python, Cloud Architecture, LLMs, Data Automation, Linux , Networking, Statistical Analysis
+id: cs
+aspects_en: Python, Cloud Architecture, LLMs, Data Automation, Linux, Networking, Statistical Analysis
+aspects_es: Python, Arquitectura Cloud, LLMs, Automatización de Datos, Linux, Redes, Análisis Estadístico
 percentage: 85, 80, 75, 85, 70, 90, 95
