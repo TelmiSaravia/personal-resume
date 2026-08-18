@@ -4,7 +4,7 @@
     detail:  Media sentiment and stock returns on the Lima Stock Exchange, 2019–2024
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Utilizes a BERT-based Large Language Model (LLM) to analyze news sentiment from a Peruvian financial daily, applying econometric models to identify causality and correlation with Lima Stock Exchange returns.
     i18n: company_a_desc
   date:
     detail: May. 2026
