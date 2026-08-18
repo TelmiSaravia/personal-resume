@@ -26,22 +26,14 @@
   },
   "career":{
     "my_career": "Mis investigaciones",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Actualmente trabajo en Nextcode desarrollando sitios web con Python para análisis genético.",
-    "nextcode_date": "Mayo 2026",
-    "nextcode_job": "Desarrollador Python",
-    "netease": "Netease Game",
-    "netease_des": "En Netease Game aprendí sobre sistemas de servicios de videojuegos y usé Python para operaciones.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
-    "ucloud": "Ucloud",
-    "ucloud_des": "En Ucloud comencé a trabajar con servidores y sistemas Linux, usando scripts de shell para gestionar servidores masivos.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
-    "college": "Graduación",
-    "college_des": "En julio de 2013 me gradué de la universidad y comencé mi recorrido en tecnología IT.",
-    "college_date": "Jul. 2013",
-    "college_job": "Estudiante"
+    "company_a": "Sentimiento mediático y rendimiento de la Bolsa de Valores de Lima, periodo 2019 – 2024",
+    "company_a_desc": "Utiliza el modelo fundacional BERT (LLM) para analizar el sentimiento en las noticias de un diario financiero peruano, empleando modelos econométricos para identificar su relación y causalidad con el rendimiento de la Bolsa de Valores de Lima.",
+    "company_a_date": "Mayo 2026",
+    "company_a_job": "Tesis de Maestría",
+    "company_b": "El precio internacional del petróleo WTI y el precio de los combustibles en el Perú período: 2013 - 2021",
+    "company_b_desc": "Este estudio emplea el modelo DCC-GARCH para contrastar la teoría de 'cohetes y plumas' en el mercado peruano de combustibles, destacando la anomalía durante el COVID-19: el barril WTI se desplomó a -$36 USD mientras los precios internos subían.",
+    "company_b_date": "Nov. 2022",
+    "company_b_job": "Tesis de Licenciatura"
   },
   "blog":{
     "my_blog": "Mi Blog"
