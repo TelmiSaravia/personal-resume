@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail:  International WTI crude oil prices and fuel prices in Peru for the period 2013-2021
+    detail:  Media sentiment and stock returns on the Lima Stock Exchange, 2019–2024
     i18n: company_a
   desc:
     detail: I worked at Company A ...
@@ -16,10 +16,10 @@
   present: true
 
 - name:
-    detail: Media sentiment and stock returns on the Lima Stock Exchange, 2019–2024
+    detail: International WTI crude oil prices and fuel prices in Peru for the period 2013-2021 
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Employs a DCC-GARCH model to test the 'rockets and feathers' asymmetric pricing theory in the Peruvian fuel market, highlighting the COVID-19 anomaly where WTI crude plunged to -$36 USD while domestic prices increased.
     i18n: company_b_desc
   date:
     detail: Nov. 2022
