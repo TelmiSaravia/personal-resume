@@ -16,18 +16,16 @@ permalink: /donate/
 <div class="wrapper wrapper-content animated pulse">
     <div class="row">
         <a href="http://paypal.me/telmist" target="_blank" style="height: 35px;display: block;text-align: center;"><h2><i class="fa fa-paypal"></i>Paypal</h2></a>
-        <div class="col-sm-8 col-sm-offset-2">
-            <h2 class="text-center m">Alipay</h2>
-            <div class="slick">
-                {% for alipay in site.data.donation.alipay %}
-                <div>
-                    <div class="ibox-content">
-                        <img src="{{ alipay.name | prepend: '/static/assets/img/donate/' | prepend : site.baseurl }}" width="100%">
-                    </div>
-                </div>
-                {% endfor %}
+    <div class="col-sm-8 col-sm-offset-2">
+        <h2 class="text-center m">Perú</h2>
+        <div style="display:flex; justify-content:center; align-items:flex-start; gap:40px; flex-wrap:wrap;">
+            {% for alipay in site.data.donation.alipay %}
+            <div style="max-width:220px; text-align:center;">
+                <img src="{{ alipay.name | prepend: '/static/assets/img/donate/' | prepend : site.baseurl }}" style="width:100%;">
             </div>
+            {% endfor %}
         </div>
+    </div>
     </div>
     <div class="row">
 
