@@ -20,9 +20,7 @@
   },
   "projects":{
     "my_projects": "Mis Proyectos",
-    "jalpc": "Este proyecto es mío. Uso JavaScript para obtener la información de mis repositorios; todos mis repos solo requieren una petición.",
-    "cpython": "Este proyecto es de otra persona. Uso otra petición para obtener la información del repositorio.",
-    "familycode": "Este es otro proyecto."
+    "web_scraping": "Script en Python que extrae titulares de un archivo de noticias, automatizando la recolección de datos por rango de fechas usando BeautifulSoup y pandas."
   },
   "career":{
     "my_career": "Mis investigaciones",
