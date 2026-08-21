@@ -44,6 +44,8 @@
   "contact":{
   "title": "Contacto",
   "desc": "Para consultas o propuestas, dejame un mensaje en el recuadro",
-  "button": "Enviar"
+  "button": "Enviar",
+  "email_placeholder": "Escribe aqui tu correo e-mail",
+  "message_placeholder": "Deja aqui tu mensaje"
 }
 }
